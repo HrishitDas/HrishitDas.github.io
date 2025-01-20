@@ -36,12 +36,12 @@ body::before {
 }
 
 a {
-  color: #18d26e;
+  color: red;
   text-decoration: none;
 }
 
 a:hover {
-  color: #35e888;
+  color: red;
   text-decoration: none;
 }
 
@@ -124,7 +124,7 @@ h6 {
 }
 
 #header .social-links a:hover {
-  background: #18d26e;
+  background: red;
 }
 
 @media (max-width: 992px) {
@@ -247,7 +247,7 @@ h6 {
   height: 2px;
   bottom: -4px;
   left: 0;
-  background-color: #18d26e;
+  background-color: red;
   visibility: hidden;
   width: 0px;
   transition: all 0.3s ease-in-out 0s;
@@ -391,7 +391,7 @@ section .container {
   width: 120px;
   height: 1px;
   display: inline-block;
-  background: #4ceb95;
+  background: red;
   margin: 4px 10px;
 }
 
@@ -411,7 +411,7 @@ section .container {
 .about-me .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #18d26e;
+  color: red;
 }
 
 .about-me .content ul {
@@ -432,7 +432,7 @@ section .container {
 .about-me .content ul i {
   font-size: 16px;
   margin-right: 5px;
-  color: #18d26e;
+  color: red;
   line-height: 0;
 }
 
@@ -463,7 +463,7 @@ section .container {
   font-size: 24px;
   background: rgba(255, 255, 255, 0.1);
   padding: 12px;
-  color: #18d26e;
+  color: red;
   border-radius: 50px;
   line-height: 0;
 }
@@ -515,7 +515,7 @@ section .container {
   width: 1px;
   height: 10px;
   transition: 0.9s;
-  background-color: #18d26e;
+  background-color: red;
 }
 
 /*--------------------------------------------------------------
@@ -633,7 +633,7 @@ i.dance{
 }
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #18d26e;
+  background-color: red;
 }
 
 /*--------------------------------------------------------------
@@ -660,7 +660,7 @@ i.dance{
   font-weight: 600;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #18d26e;
+  color: red;
   margin-bottom: 10px;
 }
 
@@ -693,8 +693,8 @@ i.dance{
   border-radius: 50px;
   left: -9px;
   top: 0;
-  background: #18d26e;
-  border: 2px solid #18d26e;
+  background: red;
+  border: 2px solid red;
 }
 
 /*--------------------------------------------------------------
@@ -711,7 +711,7 @@ i.dance{
   margin: 0 auto;
   width: 64px;
   height: 64px;
-  background: #18d26e;
+  background: red;
   border-radius: 5px;
   transition: all 0.3s ease-out 0s;
   display: flex;
@@ -756,8 +756,8 @@ i.dance{
 }
 
 .services .icon-box:hover {
-  background: #18d26e;
-  border-color: #18d26e;
+  background: red;
+  border-color: red;
 }
 
 .services .icon-box:hover .icon {
@@ -765,7 +765,7 @@ i.dance{
 }
 
 .services .icon-box:hover .icon i {
-  color: #18d26e;
+  color: red;
 }
 
 .services .icon-box:hover .icon::before {
@@ -810,7 +810,7 @@ i.dance{
 
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
-  background: #18d26e;
+  background: red;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -1004,7 +1004,7 @@ i.dance{
 }
 
 .portfolio-details .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #18d26e;
+  background-color: red;
 }
 
 /*--------------------------------------------------------------
@@ -1019,7 +1019,7 @@ i.dance{
 
 .contact .info-box i.bx {
   font-size: 24px;
-  color: #18d26e;
+  color: red;
   border-radius: 50%;
   padding: 14px;
   float: left;
@@ -1056,7 +1056,7 @@ i.dance{
 }
 
 .contact .info-box .social-links a:hover {
-  color: #18d26e;
+  color: red;
 }
 
 .contact .php-email-form {
@@ -1080,7 +1080,7 @@ i.dance{
 .contact .php-email-form .sent-message {
   display: none;
   background: rgba(255, 255, 255, 0.08);
-  background: #18d26e;
+  background: red;
   text-align: center;
   padding: 15px;
   font-weight: 600;
@@ -1100,7 +1100,7 @@ i.dance{
   width: 24px;
   height: 24px;
   margin: 0 10px -6px 0;
-  border: 3px solid #18d26e;
+  border: 3px solid red;
   border-top-color: #eee;
   animation: animate-loading 1s linear infinite;
 }
@@ -1142,7 +1142,7 @@ i.dance{
 }
 
 .contact .php-email-form button[type=submit] {
-  background: #18d26e;
+  background: red;
   border: 0;
   padding: 10px 30px;
   color: #fff;
@@ -1151,7 +1151,7 @@ i.dance{
 }
 
 .contact .php-email-form button[type=submit]:hover {
-  background: #15bb62;
+  background: red;
 }
 
 @keyframes animate-loading {
