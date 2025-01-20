@@ -377,7 +377,7 @@ section .container {
 .section-title h2 {
   font-size: 14px;
   font-weight: 500;
-  padding: 0;
+  padding-top: 10px;
   line-height: 1px;
   margin: 0 0 20px 0;
   letter-spacing: 2px;
