@@ -60,7 +60,7 @@ h6 {
 #header {
   transition: ease-in-out 0.3s;
   position: relative;
-  height: 100vh;
+  height: 130vh;
   display: flex;
   align-items: center;
   z-index: 997;
