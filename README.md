@@ -8,10 +8,10 @@ Welcome to the source code of my personal portfolio website, built using HTML, C
 
 This site serves as my digital portfolio, showcasing:
 
-- 🧠 Skills in Robotics, AI, and Embedded Systems  
-- 🛠️ Projects in Home Automation, UAVs, and Real-Time Systems  
-- 📝 Publications and research work  
-- 🎸 A little about me — including my passion for music and innovation  
+- 🧠 Skills in Dancing, Acting, Photography
+- 🛠️ Projects in Short Films and TV Serials
+- 📝 Short Films made by me and Photographs
+- 🎸 A little about me — including my passion for dancing and acting.
 
 ## 🚀 Features
 
@@ -42,7 +42,7 @@ This site serves as my digital portfolio, showcasing:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/HrishitDas2000/HrishitDas.github.io.git
+   git clone https://github.com/HrishitDas/HrishitDas.github.io.git
    cd HrishitDas.github.io
    ```
 
