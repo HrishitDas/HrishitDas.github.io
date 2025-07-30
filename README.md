@@ -42,8 +42,8 @@ This site serves as my digital portfolio, showcasing:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/HrishitDas2000/HrishitDas2000.github.io.git
-   cd HrishitDas2000.github.io
+   git clone https://github.com/HrishitDas2000/HrishitDas.github.io.git
+   cd HrishitDas.github.io
    ```
 
 2. Open `index.html` in your browser or use a local live server (e.g., VSCode Live Server extension).
