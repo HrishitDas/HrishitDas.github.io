@@ -2,7 +2,7 @@
 
 Welcome to the source code of my personal portfolio website, built using HTML, CSS, and JavaScript, and hosted via **GitHub Pages** at:
 
-🔗 [https://hrishitdas2000.github.io](https://hrishitdas2000.github.io)
+🔗 [https://hrishitDas.github.io](https://hrishitDas.github.io)
 
 ## 📁 Project Overview
 
